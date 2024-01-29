@@ -3,12 +3,15 @@ My name is Fraser and I work in analytics. I am currently working on re-learning
 
 Some Examples of my work can be found below:
 
-I am currently upskilling using Dataquest, here is a link to guided SQL projects from the SQL Fundamentals learning path
+Python
+
+R
+- R Shiny Application for visualizing NBA player stats
+  - Link to app: https://fburrell.shinyapps.io/NBAStatsApp/
+  - Code: https://github.com/STA141B-Proj/Final-Project
+
+SQL
 - https://github.com/fburrell/Dataquest-SQL-Projects
-
-R Shiny Application for visualizing NBA player stats
-- Link to app: https://fburrell.shinyapps.io/NBAStatsApp/
-- Code: https://github.com/STA141B-Proj/Final-Project
-
-My Tableau Public
+  
+Tableau
 - https://public.tableau.com/app/profile/fraser.burrell/vizzes
