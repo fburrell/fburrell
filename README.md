@@ -3,7 +3,7 @@ My name is Fraser and I work in analytics. I am currently working on re-learning
 
 Some Examples of my work can be found below:
 
-I am currently upskilling using Dataquest, here is a link to guided SQL projects
+I am currently upskilling using Dataquest, here is a link to guided SQL projects from the SQL Fundamentals learning path
 - https://github.com/fburrell/Dataquest-SQL-Projects
 
 R Shiny Application for visualizing NBA player stats
